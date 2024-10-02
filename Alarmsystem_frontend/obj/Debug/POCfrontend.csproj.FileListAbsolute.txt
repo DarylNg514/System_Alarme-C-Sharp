@@ -1,0 +1,13 @@
+C:\Users\ngueu\OneDrive\Bureau\Projet1\POCfrontend\bin\Debug\POCfrontend.exe.config
+C:\Users\ngueu\OneDrive\Bureau\Projet1\POCfrontend\bin\Debug\POCfrontend.exe
+C:\Users\ngueu\OneDrive\Bureau\Projet1\POCfrontend\bin\Debug\POCfrontend.pdb
+C:\Users\ngueu\OneDrive\Bureau\Projet1\POCfrontend\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ngueu\OneDrive\Bureau\Projet1\POCfrontend\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ngueu\OneDrive\Bureau\Projet1\POCfrontend\obj\Debug\POCfrontend.csproj.AssemblyReference.cache
+C:\Users\ngueu\OneDrive\Bureau\Projet1\POCfrontend\obj\Debug\POCfrontend.Form1.resources
+C:\Users\ngueu\OneDrive\Bureau\Projet1\POCfrontend\obj\Debug\POCfrontend.Properties.Resources.resources
+C:\Users\ngueu\OneDrive\Bureau\Projet1\POCfrontend\obj\Debug\POCfrontend.csproj.GenerateResource.cache
+C:\Users\ngueu\OneDrive\Bureau\Projet1\POCfrontend\obj\Debug\POCfrontend.csproj.CoreCompileInputs.cache
+C:\Users\ngueu\OneDrive\Bureau\Projet1\POCfrontend\obj\Debug\POCfrontend.csproj.CopyComplete
+C:\Users\ngueu\OneDrive\Bureau\Projet1\POCfrontend\obj\Debug\POCfrontend.exe
+C:\Users\ngueu\OneDrive\Bureau\Projet1\POCfrontend\obj\Debug\POCfrontend.pdb
